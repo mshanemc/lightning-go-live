@@ -2,7 +2,7 @@
     "orgName": "shane.mclaughlin Company",
     "edition": "Developer",
     "orgPreferences" : {
-        "disabled": ["S1EncryptedStoragePref2"]
+        "disabled": ["S1EncryptedStoragePref2", "S1DesktopEnabled"]
     },
     "hasSampleData": true
 
