@@ -1,0 +1,9 @@
+{
+    "orgName": "shane.mclaughlin Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "disabled": ["S1EncryptedStoragePref2"]
+    },
+    "hasSampleData": true
+
+}
