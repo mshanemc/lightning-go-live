@@ -1,6 +1,7 @@
 {
-    "orgName": "shane.mclaughlin Company",
+    "orgName": "workshops",
     "edition": "Developer",
+    "description": "lightning go live workshop",
     "orgPreferences" : {
         "disabled": ["S1EncryptedStoragePref2", "S1DesktopEnabled"]
     },
