@@ -2,8 +2,11 @@
     "orgName": "workshops",
     "edition": "Developer",
     "description": "lightning go live workshop",
-    "orgPreferences" : {
-        "disabled": ["S1EncryptedStoragePref2", "S1DesktopEnabled"]
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": false,
+            "s1EncryptedStoragePref2": false
+        }
     },
-    "hasSampleData": true
+    "hasSampleData": "true"
 }
