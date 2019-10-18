@@ -1,12 +1,11 @@
 {
-    "orgName": "workshops",
-    "edition": "Developer",
-    "description": "lightning go live workshop",
-    "settings": {
-        "orgPreferenceSettings": {
-            "s1DesktopEnabled": false,
-            "s1EncryptedStoragePref2": false
-        }
-    },
-    "hasSampleData": "true"
+  "orgName": "workshops",
+  "edition": "Developer",
+  "description": "lightning go live workshop",
+  "settings": {
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  },
+  "hasSampleData": true
 }
